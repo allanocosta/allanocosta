@@ -1,16 +1,50 @@
-### Hi there 👋
+# Me chamo Allan Costa 👋
 
-<!--
-**allanocosta/allanocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou apaixonado por tecnologia, jogos, internet das coisas e ouvir músicas.
 
-Here are some ideas to get you started:
+## Amo assuntos relacionados a Qualidade de Software e principalmente Automação de Testes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente estou estudando:
+- Automação com Robot Framework
+- Pipeline de Testes
+- GitHub
+- Azure DevOps
+- BitBucket
+
+### Hard Skills
+- Testes Exploratórios
+- Teste de Regressão
+- Smoke testing
+- Teste de unidade
+- Teste de integração
+- Testes de backEnd
+- Testes automatizados
+- Gerenciamento de testes
+- Planejamento de testes
+
+### Metodologias
+- Scrum
+- Kanban
+
+### Ferramentas de Gerenciamento de Projetos
+- Jira
+- Azure DevOps
+
+### Ferramentas 
+- Postman
+- Swagger
+- VSCode
+
+### Experiência 
+- Testes Web
+- Testes Mobile
+- Testes de BackEnd
+- Testes em e-commerce (Electrolux, Whirlpool)
+- Testes em instituições financeiras (iti Itaú, Banco BV)
+
+### Demais habilidades
+- Evangelização de cultura de QA em equipes
+- Acompanhamento de Equipe
+- Report de status da Qualidade do projeto
+- Validação de Requisitos
+- Criação de artefatos casos e cenários de testes
